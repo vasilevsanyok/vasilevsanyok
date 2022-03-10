@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasilevsanyok
-- 🌱 I’m currently learning Unity, C#
-- 📫 vasilevsanyok@icloud.com
+- 🌱 I’m currently work with Unity, C#
+- 📫 vasilevsanyok@ya.ru
 
 <!---
 vasilevsanyok/vasilevsanyok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
